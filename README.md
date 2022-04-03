@@ -12,4 +12,4 @@ python setup.py install
 ```
 
 ## Train & Test & Evaluation & Visualization
-Just following HRNet-reID.ipynb~
+Just following UNet-Pytorch.ipynb~
